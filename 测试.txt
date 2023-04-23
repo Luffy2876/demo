@@ -1,0 +1,4 @@
+你好啊，我的第一个文件。
+git config --global user.name "Luffy2876"
+git config --global user.email "287694823@qq.com"
+ssh-keygen -t rsa
